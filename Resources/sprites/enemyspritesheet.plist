@@ -1,0 +1,2213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>enemyeliminated1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1000, 136}, {16, 14}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 14}}</string>
+			<key>sourceSize</key>
+			<string>{16, 14}</string>
+		</dict>
+		<key>enemyeliminated2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{169, 302}, {24, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 22}}</string>
+			<key>sourceSize</key>
+			<string>{24, 22}</string>
+		</dict>
+		<key>enemyeliminated3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{851, 251}, {31, 27}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 27}}</string>
+			<key>sourceSize</key>
+			<string>{31, 27}</string>
+		</dict>
+		<key>enemyeliminated4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{809, 251}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{40, 40}</string>
+		</dict>
+		<key>flyenemyfirst001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 302}, {36, 21}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 21}}</string>
+			<key>sourceSize</key>
+			<string>{36, 21}</string>
+		</dict>
+		<key>flyenemyfirst002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{648, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{843, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{765, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 302}, {38, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 20}}</string>
+			<key>sourceSize</key>
+			<string>{38, 20}</string>
+		</dict>
+		<key>flyenemyfirst007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{569, 302}, {38, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 20}}</string>
+			<key>sourceSize</key>
+			<string>{38, 20}</string>
+		</dict>
+		<key>flyenemyfirst008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{489, 302}, {38, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 20}}</string>
+			<key>sourceSize</key>
+			<string>{38, 20}</string>
+		</dict>
+		<key>flyenemyfirst009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{920, 302}, {38, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 19}}</string>
+			<key>sourceSize</key>
+			<string>{38, 19}</string>
+		</dict>
+		<key>flyenemyfirst010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 327}, {38, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 18}}</string>
+			<key>sourceSize</key>
+			<string>{38, 18}</string>
+		</dict>
+		<key>flyenemyfirst011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 327}, {38, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 18}}</string>
+			<key>sourceSize</key>
+			<string>{38, 18}</string>
+		</dict>
+		<key>flyenemyfirst012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{960, 302}, {38, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 19}}</string>
+			<key>sourceSize</key>
+			<string>{38, 19}</string>
+		</dict>
+		<key>flyenemyfirst013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{804, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{726, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687, 302}, {37, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 20}}</string>
+			<key>sourceSize</key>
+			<string>{37, 20}</string>
+		</dict>
+		<key>flyenemyfirst016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{882, 302}, {36, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 20}}</string>
+			<key>sourceSize</key>
+			<string>{36, 20}</string>
+		</dict>
+		<key>flyenemysecond0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{128, 302}, {39, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 22}}</string>
+			<key>sourceSize</key>
+			<string>{39, 22}</string>
+		</dict>
+		<key>flyenemysecond0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{969, 251}, {40, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 23}}</string>
+			<key>sourceSize</key>
+			<string>{40, 23}</string>
+		</dict>
+		<key>flyenemysecond0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 302}, {40, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 23}}</string>
+			<key>sourceSize</key>
+			<string>{40, 23}</string>
+		</dict>
+		<key>flyenemysecond0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{884, 276}, {40, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 23}}</string>
+			<key>sourceSize</key>
+			<string>{40, 23}</string>
+		</dict>
+		<key>flyenemysecond0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 251}, {40, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 23}}</string>
+			<key>sourceSize</key>
+			<string>{40, 23}</string>
+		</dict>
+		<key>flyenemysecond0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{884, 251}, {41, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 23}}</string>
+			<key>sourceSize</key>
+			<string>{41, 23}</string>
+		</dict>
+		<key>flyenemysecond0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{44, 302}, {41, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 22}}</string>
+			<key>sourceSize</key>
+			<string>{41, 22}</string>
+		</dict>
+		<key>flyenemysecond0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{926, 276}, {41, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 22}}</string>
+			<key>sourceSize</key>
+			<string>{41, 22}</string>
+		</dict>
+		<key>flyenemysecond0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{446, 302}, {41, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 20}}</string>
+			<key>sourceSize</key>
+			<string>{41, 20}</string>
+		</dict>
+		<key>flyenemysecond0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{403, 302}, {41, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 20}}</string>
+			<key>sourceSize</key>
+			<string>{41, 20}</string>
+		</dict>
+		<key>flyenemysecond0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{360, 302}, {41, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 20}}</string>
+			<key>sourceSize</key>
+			<string>{41, 20}</string>
+		</dict>
+		<key>flyenemysecond0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{195, 302}, {41, 21}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 21}}</string>
+			<key>sourceSize</key>
+			<string>{41, 21}</string>
+		</dict>
+		<key>flyenemysecond0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{238, 302}, {40, 21}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 21}}</string>
+			<key>sourceSize</key>
+			<string>{40, 21}</string>
+		</dict>
+		<key>flyenemysecond0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{280, 302}, {40, 21}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 21}}</string>
+			<key>sourceSize</key>
+			<string>{40, 21}</string>
+		</dict>
+		<key>flyenemysecond0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{969, 276}, {40, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 22}}</string>
+			<key>sourceSize</key>
+			<string>{40, 22}</string>
+		</dict>
+		<key>flyenemysecond0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{87, 302}, {39, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 22}}</string>
+			<key>sourceSize</key>
+			<string>{39, 22}</string>
+		</dict>
+		<key>runenemyfirst001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{983, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{38, 60}</string>
+		</dict>
+		<key>runenemyfirst002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{46, 74}, {42, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 60}}</string>
+			<key>sourceSize</key>
+			<string>{42, 60}</string>
+		</dict>
+		<key>runenemyfirst003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{900, 136}, {48, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 54}}</string>
+			<key>sourceSize</key>
+			<string>{48, 54}</string>
+		</dict>
+		<key>runenemyfirst004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{630, 136}, {52, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 55}}</string>
+			<key>sourceSize</key>
+			<string>{52, 55}</string>
+		</dict>
+		<key>runenemyfirst005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{611, 74}, {46, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 57}}</string>
+			<key>sourceSize</key>
+			<string>{46, 57}</string>
+		</dict>
+		<key>runenemyfirst006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{572, 74}, {37, 58}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 58}}</string>
+			<key>sourceSize</key>
+			<string>{37, 58}</string>
+		</dict>
+		<key>runenemyfirst007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{298, 74}, {31, 59}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 59}}</string>
+			<key>sourceSize</key>
+			<string>{31, 59}</string>
+		</dict>
+		<key>runenemyfirst008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{134, 74}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{38, 60}</string>
+		</dict>
+		<key>runenemyfirst009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{939, 2}, {42, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 60}}</string>
+			<key>sourceSize</key>
+			<string>{42, 60}</string>
+		</dict>
+		<key>runenemyfirst010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{950, 136}, {48, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 54}}</string>
+			<key>sourceSize</key>
+			<string>{48, 54}</string>
+		</dict>
+		<key>runenemyfirst011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{522, 136}, {52, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 55}}</string>
+			<key>sourceSize</key>
+			<string>{52, 55}</string>
+		</dict>
+		<key>runenemyfirst012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{707, 74}, {46, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 57}}</string>
+			<key>sourceSize</key>
+			<string>{46, 57}</string>
+		</dict>
+		<key>runenemyfirst013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{494, 74}, {37, 58}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 58}}</string>
+			<key>sourceSize</key>
+			<string>{37, 58}</string>
+		</dict>
+		<key>runenemyfirst014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{364, 74}, {31, 59}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 59}}</string>
+			<key>sourceSize</key>
+			<string>{31, 59}</string>
+		</dict>
+		<key>runenemysecond001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{858, 195}, {32, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 51}}</string>
+			<key>sourceSize</key>
+			<string>{32, 51}</string>
+		</dict>
+		<key>runenemysecond002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 195}, {35, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 51}}</string>
+			<key>sourceSize</key>
+			<string>{35, 51}</string>
+		</dict>
+		<key>runenemysecond003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{727, 251}, {39, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 45}}</string>
+			<key>sourceSize</key>
+			<string>{39, 45}</string>
+		</dict>
+		<key>runenemysecond004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{600, 251}, {43, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 46}}</string>
+			<key>sourceSize</key>
+			<string>{43, 46}</string>
+		</dict>
+		<key>runenemysecond005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{345, 251}, {38, 47}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 47}}</string>
+			<key>sourceSize</key>
+			<string>{38, 47}</string>
+		</dict>
+		<key>runenemysecond006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{127, 251}, {31, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 49}}</string>
+			<key>sourceSize</key>
+			<string>{31, 49}</string>
+		</dict>
+		<key>runenemysecond007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 251}, {26, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 49}}</string>
+			<key>sourceSize</key>
+			<string>{26, 49}</string>
+		</dict>
+		<key>runenemysecond008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{824, 195}, {32, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 51}}</string>
+			<key>sourceSize</key>
+			<string>{32, 51}</string>
+		</dict>
+		<key>runenemysecond009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{645, 195}, {35, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 51}}</string>
+			<key>sourceSize</key>
+			<string>{35, 51}</string>
+		</dict>
+		<key>runenemysecond010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{645, 251}, {39, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 45}}</string>
+			<key>sourceSize</key>
+			<string>{39, 45}</string>
+		</dict>
+		<key>runenemysecond011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{465, 251}, {43, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 46}}</string>
+			<key>sourceSize</key>
+			<string>{43, 46}</string>
+		</dict>
+		<key>runenemysecond012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{425, 251}, {38, 47}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 47}}</string>
+			<key>sourceSize</key>
+			<string>{38, 47}</string>
+		</dict>
+		<key>runenemysecond013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{160, 251}, {31, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 49}}</string>
+			<key>sourceSize</key>
+			<string>{31, 49}</string>
+		</dict>
+		<key>runenemysecond014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{249, 251}, {26, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 49}}</string>
+			<key>sourceSize</key>
+			<string>{26, 49}</string>
+		</dict>
+		<key>runenemythird001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{431, 136}, {35, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 56}}</string>
+			<key>sourceSize</key>
+			<string>{35, 56}</string>
+		</dict>
+		<key>runenemythird002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{238, 136}, {39, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 56}}</string>
+			<key>sourceSize</key>
+			<string>{39, 56}</string>
+		</dict>
+		<key>runenemythird003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{938, 195}, {44, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 49}}</string>
+			<key>sourceSize</key>
+			<string>{44, 49}</string>
+		</dict>
+		<key>runenemythird004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{508, 195}, {48, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 51}}</string>
+			<key>sourceSize</key>
+			<string>{48, 51}</string>
+		</dict>
+		<key>runenemythird005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 195}, {42, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 53}}</string>
+			<key>sourceSize</key>
+			<string>{42, 53}</string>
+		</dict>
+		<key>runenemythird006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 195}, {34, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {34, 54}}</string>
+			<key>sourceSize</key>
+			<string>{34, 54}</string>
+		</dict>
+		<key>runenemythird007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{746, 136}, {29, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 55}}</string>
+			<key>sourceSize</key>
+			<string>{29, 55}</string>
+		</dict>
+		<key>runenemythird008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{394, 136}, {35, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 56}}</string>
+			<key>sourceSize</key>
+			<string>{35, 56}</string>
+		</dict>
+		<key>runenemythird009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 136}, {39, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 56}}</string>
+			<key>sourceSize</key>
+			<string>{39, 56}</string>
+		</dict>
+		<key>runenemythird010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 251}, {44, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 49}}</string>
+			<key>sourceSize</key>
+			<string>{44, 49}</string>
+		</dict>
+		<key>runenemythird011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{558, 195}, {48, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 51}}</string>
+			<key>sourceSize</key>
+			<string>{48, 51}</string>
+		</dict>
+		<key>runenemythird012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{320, 195}, {42, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 53}}</string>
+			<key>sourceSize</key>
+			<string>{42, 53}</string>
+		</dict>
+		<key>runenemythird013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 195}, {34, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {34, 54}}</string>
+			<key>sourceSize</key>
+			<string>{34, 54}</string>
+		</dict>
+		<key>runenemythird014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{52, 195}, {34, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {34, 54}}</string>
+			<key>sourceSize</key>
+			<string>{34, 54}</string>
+		</dict>
+		<key>runenemythird015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{684, 136}, {29, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 55}}</string>
+			<key>sourceSize</key>
+			<string>{29, 55}</string>
+		</dict>
+		<key>startrunningenemyfirst001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{272, 2}, {31, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 68}}</string>
+			<key>sourceSize</key>
+			<string>{31, 68}</string>
+		</dict>
+		<key>startrunningenemyfirst002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{32, 2}, {24, 69}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 69}}</string>
+			<key>sourceSize</key>
+			<string>{24, 69}</string>
+		</dict>
+		<key>startrunningenemyfirst003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{490, 2}, {22, 66}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 66}}</string>
+			<key>sourceSize</key>
+			<string>{22, 66}</string>
+		</dict>
+		<key>startrunningenemysecond001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{961, 74}, {26, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 57}}</string>
+			<key>sourceSize</key>
+			<string>{26, 57}</string>
+		</dict>
+		<key>startrunningenemysecond002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{29, 136}, {20, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 57}}</string>
+			<key>sourceSize</key>
+			<string>{20, 57}</string>
+		</dict>
+		<key>startrunningenemysecond003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{829, 136}, {19, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 55}}</string>
+			<key>sourceSize</key>
+			<string>{19, 55}</string>
+		</dict>
+		<key>startrunningenemythird001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{762, 2}, {28, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 62}}</string>
+			<key>sourceSize</key>
+			<string>{28, 62}</string>
+		</dict>
+		<key>startrunningenemythird002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{541, 2}, {22, 63}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 63}}</string>
+			<key>sourceSize</key>
+			<string>{22, 63}</string>
+		</dict>
+		<key>startrunningenemythird003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 74}, {20, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 60}}</string>
+			<key>sourceSize</key>
+			<string>{20, 60}</string>
+		</dict>
+		<key>throwenemyfifth001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{731, 2}, {29, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 62}}</string>
+			<key>sourceSize</key>
+			<string>{29, 62}</string>
+		</dict>
+		<key>throwenemyfifth002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{638, 2}, {45, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {45, 62}}</string>
+			<key>sourceSize</key>
+			<string>{45, 62}</string>
+		</dict>
+		<key>throwenemyfifth003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{589, 2}, {47, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {47, 62}}</string>
+			<key>sourceSize</key>
+			<string>{47, 62}</string>
+		</dict>
+		<key>throwenemyfifth004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{685, 2}, {44, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 62}}</string>
+			<key>sourceSize</key>
+			<string>{44, 62}</string>
+		</dict>
+		<key>throwenemyfifth005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{514, 2}, {25, 64}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 64}}</string>
+			<key>sourceSize</key>
+			<string>{25, 64}</string>
+		</dict>
+		<key>throwenemyfifth006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{822, 2}, {27, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 62}}</string>
+			<key>sourceSize</key>
+			<string>{27, 62}</string>
+		</dict>
+		<key>throwenemyfifth007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{918, 2}, {19, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 62}}</string>
+			<key>sourceSize</key>
+			<string>{19, 62}</string>
+		</dict>
+		<key>throwenemyfifth008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{874, 2}, {20, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 62}}</string>
+			<key>sourceSize</key>
+			<string>{20, 62}</string>
+		</dict>
+		<key>throwenemyfifth009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{896, 2}, {20, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 62}}</string>
+			<key>sourceSize</key>
+			<string>{20, 62}</string>
+		</dict>
+		<key>throwenemyfifth010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{851, 2}, {21, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 62}}</string>
+			<key>sourceSize</key>
+			<string>{21, 62}</string>
+		</dict>
+		<key>throwenemyfourth001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{933, 74}, {26, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 57}}</string>
+			<key>sourceSize</key>
+			<string>{26, 57}</string>
+		</dict>
+		<key>throwenemyfourth002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{891, 74}, {40, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 57}}</string>
+			<key>sourceSize</key>
+			<string>{40, 57}</string>
+		</dict>
+		<key>throwenemyfourth003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{803, 74}, {43, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 57}}</string>
+			<key>sourceSize</key>
+			<string>{43, 57}</string>
+		</dict>
+		<key>throwenemyfourth004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 74}, {41, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 57}}</string>
+			<key>sourceSize</key>
+			<string>{41, 57}</string>
+		</dict>
+		<key>throwenemyfourth005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 74}, {23, 59}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 59}}</string>
+			<key>sourceSize</key>
+			<string>{23, 59}</string>
+		</dict>
+		<key>throwenemyfourth006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 136}, {25, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 57}}</string>
+			<key>sourceSize</key>
+			<string>{25, 57}</string>
+		</dict>
+		<key>throwenemyfourth007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{136, 136}, {18, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 57}}</string>
+			<key>sourceSize</key>
+			<string>{18, 57}</string>
+		</dict>
+		<key>throwenemyfourth008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 136}, {19, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 57}}</string>
+			<key>sourceSize</key>
+			<string>{19, 57}</string>
+		</dict>
+		<key>throwenemyfourth009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{115, 136}, {19, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 57}}</string>
+			<key>sourceSize</key>
+			<string>{19, 57}</string>
+		</dict>
+		<key>throwenemyfourth010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{94, 136}, {19, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 57}}</string>
+			<key>sourceSize</key>
+			<string>{19, 57}</string>
+		</dict>
+		<key>throwenemysixth001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{238, 2}, {32, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 68}}</string>
+			<key>sourceSize</key>
+			<string>{32, 68}</string>
+		</dict>
+		<key>throwenemysixth002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 2}, {48, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 68}}</string>
+			<key>sourceSize</key>
+			<string>{48, 68}</string>
+		</dict>
+		<key>throwenemysixth003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 2}, {52, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 68}}</string>
+			<key>sourceSize</key>
+			<string>{52, 68}</string>
+		</dict>
+		<key>throwenemysixth004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{188, 2}, {48, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 68}}</string>
+			<key>sourceSize</key>
+			<string>{48, 68}</string>
+		</dict>
+		<key>throwenemysixth005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {28, 70}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 70}}</string>
+			<key>sourceSize</key>
+			<string>{28, 70}</string>
+		</dict>
+		<key>throwenemysixth006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{338, 2}, {30, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 68}}</string>
+			<key>sourceSize</key>
+			<string>{30, 68}</string>
+		</dict>
+		<key>throwenemysixth007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{443, 2}, {21, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 68}}</string>
+			<key>sourceSize</key>
+			<string>{21, 68}</string>
+		</dict>
+		<key>throwenemysixth008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{419, 2}, {22, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 68}}</string>
+			<key>sourceSize</key>
+			<string>{22, 68}</string>
+		</dict>
+		<key>throwenemysixth009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{395, 2}, {22, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 68}}</string>
+			<key>sourceSize</key>
+			<string>{22, 68}</string>
+		</dict>
+		<key>throwenemysixth010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 2}, {23, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 68}}</string>
+			<key>sourceSize</key>
+			<string>{23, 68}</string>
+		</dict>
+		<key>walkingenemyfirst001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{174, 74}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{38, 60}</string>
+		</dict>
+		<key>walkingenemyfirst002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 74}, {42, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 60}}</string>
+			<key>sourceSize</key>
+			<string>{42, 60}</string>
+		</dict>
+		<key>walkingenemyfirst003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 195}, {48, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 54}}</string>
+			<key>sourceSize</key>
+			<string>{48, 54}</string>
+		</dict>
+		<key>walkingenemyfirst004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{468, 136}, {52, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 55}}</string>
+			<key>sourceSize</key>
+			<string>{52, 55}</string>
+		</dict>
+		<key>walkingenemyfirst005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{755, 74}, {46, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 57}}</string>
+			<key>sourceSize</key>
+			<string>{46, 57}</string>
+		</dict>
+		<key>walkingenemyfirst006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{455, 74}, {37, 58}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 58}}</string>
+			<key>sourceSize</key>
+			<string>{37, 58}</string>
+		</dict>
+		<key>walkingenemyfirst007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{331, 74}, {31, 59}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 59}}</string>
+			<key>sourceSize</key>
+			<string>{31, 59}</string>
+		</dict>
+		<key>walkingenemyfirst008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{214, 74}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{38, 60}</string>
+		</dict>
+		<key>walkingenemyfirst009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 74}, {42, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 60}}</string>
+			<key>sourceSize</key>
+			<string>{42, 60}</string>
+		</dict>
+		<key>walkingenemyfirst010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{850, 136}, {48, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 54}}</string>
+			<key>sourceSize</key>
+			<string>{48, 54}</string>
+		</dict>
+		<key>walkingenemyfirst011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{576, 136}, {52, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 55}}</string>
+			<key>sourceSize</key>
+			<string>{52, 55}</string>
+		</dict>
+		<key>walkingenemyfirst012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{659, 74}, {46, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 57}}</string>
+			<key>sourceSize</key>
+			<string>{46, 57}</string>
+		</dict>
+		<key>walkingenemyfirst013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 74}, {37, 58}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 58}}</string>
+			<key>sourceSize</key>
+			<string>{37, 58}</string>
+		</dict>
+		<key>walkingenemyfirst014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 74}, {31, 59}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 59}}</string>
+			<key>sourceSize</key>
+			<string>{31, 59}</string>
+		</dict>
+		<key>walkingenemysecond001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{790, 195}, {32, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 51}}</string>
+			<key>sourceSize</key>
+			<string>{32, 51}</string>
+		</dict>
+		<key>walkingenemysecond002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{719, 195}, {35, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 51}}</string>
+			<key>sourceSize</key>
+			<string>{35, 51}</string>
+		</dict>
+		<key>walkingenemysecond003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{768, 251}, {39, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 45}}</string>
+			<key>sourceSize</key>
+			<string>{39, 45}</string>
+		</dict>
+		<key>walkingenemysecond004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{555, 251}, {43, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 46}}</string>
+			<key>sourceSize</key>
+			<string>{43, 46}</string>
+		</dict>
+		<key>walkingenemysecond005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{305, 251}, {38, 47}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 47}}</string>
+			<key>sourceSize</key>
+			<string>{38, 47}</string>
+		</dict>
+		<key>walkingenemysecond006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{94, 251}, {31, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 49}}</string>
+			<key>sourceSize</key>
+			<string>{31, 49}</string>
+		</dict>
+		<key>walkingenemysecond007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{277, 251}, {26, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 49}}</string>
+			<key>sourceSize</key>
+			<string>{26, 49}</string>
+		</dict>
+		<key>walkingenemysecond008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{756, 195}, {32, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 51}}</string>
+			<key>sourceSize</key>
+			<string>{32, 51}</string>
+		</dict>
+		<key>walkingenemysecond009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{682, 195}, {35, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 51}}</string>
+			<key>sourceSize</key>
+			<string>{35, 51}</string>
+		</dict>
+		<key>walkingenemysecond010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{686, 251}, {39, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 45}}</string>
+			<key>sourceSize</key>
+			<string>{39, 45}</string>
+		</dict>
+		<key>walkingenemysecond011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{510, 251}, {43, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 46}}</string>
+			<key>sourceSize</key>
+			<string>{43, 46}</string>
+		</dict>
+		<key>walkingenemysecond012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 251}, {38, 47}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 47}}</string>
+			<key>sourceSize</key>
+			<string>{38, 47}</string>
+		</dict>
+		<key>walkingenemysecond013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{984, 195}, {31, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 49}}</string>
+			<key>sourceSize</key>
+			<string>{31, 49}</string>
+		</dict>
+		<key>walkingenemysecond014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 251}, {26, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 49}}</string>
+			<key>sourceSize</key>
+			<string>{26, 49}</string>
+		</dict>
+		<key>walkingenemythird001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{357, 136}, {35, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 56}}</string>
+			<key>sourceSize</key>
+			<string>{35, 56}</string>
+		</dict>
+		<key>walkingenemythird002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{156, 136}, {39, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 56}}</string>
+			<key>sourceSize</key>
+			<string>{39, 56}</string>
+		</dict>
+		<key>walkingenemythird003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{892, 195}, {44, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 49}}</string>
+			<key>sourceSize</key>
+			<string>{44, 49}</string>
+		</dict>
+		<key>walkingenemythird004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{408, 195}, {48, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 51}}</string>
+			<key>sourceSize</key>
+			<string>{48, 51}</string>
+		</dict>
+		<key>walkingenemythird005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 195}, {42, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 53}}</string>
+			<key>sourceSize</key>
+			<string>{42, 53}</string>
+		</dict>
+		<key>walkingenemythird006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{88, 195}, {34, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {34, 54}}</string>
+			<key>sourceSize</key>
+			<string>{34, 54}</string>
+		</dict>
+		<key>walkingenemythird007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{777, 136}, {29, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 55}}</string>
+			<key>sourceSize</key>
+			<string>{29, 55}</string>
+		</dict>
+		<key>walkingenemythird008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{320, 136}, {35, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 56}}</string>
+			<key>sourceSize</key>
+			<string>{35, 56}</string>
+		</dict>
+		<key>walkingenemythird009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{279, 136}, {39, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 56}}</string>
+			<key>sourceSize</key>
+			<string>{39, 56}</string>
+		</dict>
+		<key>walkingenemythird010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{48, 251}, {44, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 49}}</string>
+			<key>sourceSize</key>
+			<string>{44, 49}</string>
+		</dict>
+		<key>walkingenemythird011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{458, 195}, {48, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 51}}</string>
+			<key>sourceSize</key>
+			<string>{48, 51}</string>
+		</dict>
+		<key>walkingenemythird012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{364, 195}, {42, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 53}}</string>
+			<key>sourceSize</key>
+			<string>{42, 53}</string>
+		</dict>
+		<key>walkingenemythird013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{160, 195}, {34, 54}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {34, 54}}</string>
+			<key>sourceSize</key>
+			<string>{34, 54}</string>
+		</dict>
+		<key>walkingenemythird014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{715, 136}, {29, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 55}}</string>
+			<key>sourceSize</key>
+			<string>{29, 55}</string>
+		</dict>
+		<key>walkingstartingenemyfirst001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{305, 2}, {31, 68}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 68}}</string>
+			<key>sourceSize</key>
+			<string>{31, 68}</string>
+		</dict>
+		<key>walkingstartingenemyfirst002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 2}, {24, 69}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 69}}</string>
+			<key>sourceSize</key>
+			<string>{24, 69}</string>
+		</dict>
+		<key>walkingstartingenemyfirst003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{466, 2}, {22, 66}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 66}}</string>
+			<key>sourceSize</key>
+			<string>{22, 66}</string>
+		</dict>
+		<key>walkingstartingenemysecond001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{989, 74}, {26, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 57}}</string>
+			<key>sourceSize</key>
+			<string>{26, 57}</string>
+		</dict>
+		<key>walkingstartingenemysecond002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{51, 136}, {20, 57}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 57}}</string>
+			<key>sourceSize</key>
+			<string>{20, 57}</string>
+		</dict>
+		<key>walkingstartingenemysecond003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{808, 136}, {19, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 55}}</string>
+			<key>sourceSize</key>
+			<string>{19, 55}</string>
+		</dict>
+		<key>walkingstartingenemythird001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{792, 2}, {28, 62}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 62}}</string>
+			<key>sourceSize</key>
+			<string>{28, 62}</string>
+		</dict>
+		<key>walkingstartingenemythird002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 2}, {22, 63}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 63}}</string>
+			<key>sourceSize</key>
+			<string>{22, 63}</string>
+		</dict>
+		<key>walkingstartingenemythird003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 74}, {20, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 60}}</string>
+			<key>sourceSize</key>
+			<string>{20, 60}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

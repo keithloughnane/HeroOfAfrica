@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiletexture2" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="tiletexture2.png" trans="000000"/>
+ </tileset>
+ <tileset firstgid="199" name="tiletexture3" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="tiletexture3.png" trans="000000"/>
+ </tileset>
+ <tileset firstgid="397" name="tiletexture1" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="tiletexture1.png" trans="000000"/>
+ </tileset>
+ <layer name="Layer 0" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGL5AAwkPBqAIxEpArEymfg0Gwn4SAGJBKpk/kOGWDMQpQJyKJp5JpP5SIC4D4nIonxx/dRCpjlb6ZwGxIRAbAbExEJsQqQ9bPOLCIOBAoTsHOq2gg1G3YAeBQBxEpt6BKBcGIuwI2XkQiA9RYP5+ID6AxJcHYgUGSN1Ajn5VCjEAGkdOuQAIAAA=
+  </data>
+ </layer>
+ <layer name="Layer 1" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgQABJIJYCYmkG8oA2EOsAsS6Z+kHAjgg1vUDch8RXAmJlKDsASdyBSDvV8eDBAGjtDvTwBAEZIJYFYjky3aEHxPpAbECBuxxxiBPrjmAgFgBiQRLtpXdakAdiBSBWJEOvBhomBLDFNS1AIIX6ifUPMQC5fKCVW+gVruSGS+YA2BlEpLpkIE4B4lQCdmIrk0CgFIjLgLicgD34yqQOPPqQ8z6uMgmffmSAS/8sJLYhEBsBsTEQmwCxKZJcMJo+VQoxAJtnOeMACAAA
+  </data>
+ </layer>
+ <layer name="Layer 2" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWkgl4g7sMhpw7EGkCsCcRadHMRAmBzmyEQGwGxMRCbALEpiWaqI+GB9BshMNjdRw6gtp9kgFgWiOWwyMkDsQIQK+LRrwfE+kBsgEWOWLc6EuNQKupXAmJlJH4wDnW48rU6A/3zgCGZ+gi5D1/ZRSsQCMRBFOgnNcwd8MilAXE6EGeQaU8FEFcCcRUR7sAFuvHICQCxIBbxTCT2XCS2KoUYAH5UhxcACAAA
+  </data>
+ </layer>
+ <layer name="Layer 3" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAW0AoZAbATExkBsAsSmJOhVx4OxgSDynUnQbGqAZCBOAeJUMvWXAnEZEJcToRaXPzrItJta+meRqB5fGqB1fFEC6O0uASAWJFMvyK0aQKwJxFpUcxF1gDwQKwCxIhl6h0paQQYyQCwLxHJ41ODzhx4Q6wOxAQVucCRSHS534NO/FojX4ZBzgNLBaOJKQKwMZe8H4gNQdiaUVqUQAwC7jHG5AAgAAA==
+  </data>
+ </layer>
+ <layer name="Layer 4" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2TSQoCMRBFOyJ6A4c7ONxAvUJfXpfOE66cp4U+xUUR0nSsoDTih5dF5f8kFZIo+uspI/gBLWCZMNeHAQyTwsaB0Bo2sA04Xz7wnkuafEpfn1CBPSrafb78Jqcwg7kie3sMnNNALiN/6AgnOCvzWewpVF3oKbOq+/Dw1fDUoeHhHcEYJqLWIteGjpUvO9bbwR4OVj0W3rQ+i45a/Mb78Mlf4Gp5mi9PVXhXgdwBNYhRkAAIAAA=
+  </data>
+ </layer>
+ <layer name="Layer 5" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAXUAP9BBCMQATETI251wUC5EDzy5IBHQPwYiJ8giT0F4mdA/JwI/V+A+CsQf0MSI9Y/MMBOoZ8kgfpfAOmXJOr7jwUPRYCeLgaTX9goiNuBiBdxoHslyHQzIffSIv9SCgi5iZzw1x+Eca4JdJMWEGujuY1Yu6yB+myA2JYCv/lRGPeE9H8H4h9A/BOIfwHxbzT5BKD+a0D6OpT/mkIMAAC7dw8ACAAA
+  </data>
+ </layer>
+ <layer name="Layer 6" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGBgQzMjAEMI4+M0cDuAFEL8kU+9/EAEMU0YgZqJh2OKz5xEQPwbiJ2Sa/QWIvwLxNwrcx06i358C8TMgfg7lSwL1fwfSP4D4JxD/AuLfOPT+J4DpER/kgMHiHnzuoGcZQa/wIOQnarrjGhBfJ1MvrrR7H4gfAPFDMs39CMSfgPgzHjVsBMKABYc8sfkNl35igRiafgkc5umjib+mEAMADZeufQAIAAA=
+  </data>
+ </layer>
+ <layer name="Layer 7" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAXo4DsQ/wDin0D8C4h/E6uRkQAeDgCLnx4B8WMgfkKmkV+A+CsQfyNkLx7ATmH44tSPRTwYKBaCJi4J5T8F4mdA/JxIe//jwYMBDDb34ALY4gQXoJd/rgHxdQr0D8b0gA9Q2636wPgUB2IJtHi9D8QPgPghlK8JlNcCYm00dbjC7yMQfwLiz1C+NVCfDRDbklCGsKCp9SOx/EHXn4BFPxua2Asgfomm/zWFGACL0je8AAgAAA==
+  </data>
+ </layer>
+ <layer name="Layer 8" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWkgv9IGASCGRkYQhhpY9dTIH4GxM9J1PcfDx6MgF7uuw/ED4D4IZn6PwLxJyD+TEAdvjBnoTCtENKvCZTXAmJtHOoI6bcGytsAsS2aOlLSkh+FfoTplyDDHHqmeXEK/UmqG2lZ1iADNgrsGIiy5hEQPwbiJ3jUvADilzjkvgDxVyD+hkOeGD+xExlm7UB1HVjUSkLFvgPxDyD+CcS/gPg3mrpWoLo2qNrXFGIA1nOtOQAIAAA=
+  </data>
+ </layer>
+ <layer name="Layer 9" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC82UOQ7CMBBFZ5wr0EDLeSkQLZTsW8m+tUgcIckRgIKen8ISxdjCSwJfelI80Z8lmpjo/1VXRA0VN2czcj6tOxM9wJP96jLeK5AE9FcTvC7zSn7X+gvMvzR8A5PaLKPVx/MADB3zaq3gW4ONp7/QVfC67Kfk/0YdlilTXeTvBdSookefmmXcJ4UOqHsEJ3AGl8j7/0ul6COLsAtV7cPLUGeE+BhMLH3Y/rEtzjuwD5jjZvBOEZ+BOdvvz/wj3uIw3gyJfTIACAAA
+  </data>
+ </layer>
+ <layer name="Layer 10" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWEwGpGBoY1QLyWEbu8JBMDgxQTpvhERtyY3mAF0M6VQLwKj9343LcLKLYbiPdQ4PazZOi9C9RzD6rvPgn68YU9tePhKwXmTGZExcQAXOmNmmAd0C3rqeSv4QDo6Zc5QHvm0jlNkQKonf7okVbeA83+AMQfibADm1sYgf5lAmJmCvwtQkDvXqCd+4B4PxAfAOKDaG7Apr+XkTIMAG5OxAEACAAA
+  </data>
+ </layer>
+ <layer name="Layer 11" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUDDZYyMjAsA+LljITVSjIxMEgxoYptB+rbAcQ7idCPC5yiQC819X8l0ZyJjBA8hRHBHixgDtAtcylwz8RB6Kd1QLesx+IebOkSGyDWTypEmEUsOENk+GGzcwojAlPbXdjAaqA9a4B4LZlxPpkRgbEBWrsfG7gLdMs9Av5ZAZRfCcSr0NQhpxd86WYXUHw3EO+hIK+cJUEvtvAlRT82cB9J/14gex8Q7wfiA0B8EIfZfYyUYQAGvyKpAAgAAA==
+  </data>
+ </layer>
+ <layer name="Layer 12" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHxgIiMmHi6AkH8kmRgYpJjo5x5iwRygm+eSEQ/Y4pJW8XkXaO49CsweKmluBdBtK4F4FQE34vLLLiB/NxDvgYqTk+bOUhg+pOhfDVS7BojXAvE6IF4PxPeJ1D+BET+mNjhDgZmE3DaQZcNXMv01mREVDwR4D7T3AxB/JDHNwAAjMMyZgJiZgrAXwaN3L9CufUC8H4gPAPFBLO7Epb+XkTIMAGT3BNkACAAA
+  </data>
+ </layer>
+ <layer name="Layer 13" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+WSOw7CMBBEd83nBEjcgOMiQQuUQMGvBAp+LeIIwBX490wkKmdMsSZRJEZ6hTeZzVgZkf/TRUWu4KY2vzoRB0rOnqEW4U3UMPhbmiYLjbB3DCbG/XnlzFtZ3SfU5xXOa7ABW7ALfJf1mf2Db7lj+2z1tzVNkTRFnpkxU9Hu1EGOLuj9+D59nAdgaNw7h28Blp7/RfbdMXuAp/dsT95lecvoaQVUvb4yf0h10vUj8Z8wO5N54j985k2N4w1J/z4IAAgAAA==
+  </data>
+ </layer>
+ <layer name="Layer 14" width="16" height="32" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGL7AgUx96ljwcAD09k8gEAdRoH8whX8yEKcAcSoeNfjcWwrEZUBcToEbOsjQk0mmfmx5YDDni8HmJkMgNgJiYyA2AWJTIvUNhbCmBODyiwwQywKxHJnm6gGxPhAbkKkfBBzR+KSGP7p+UkEwECsBsTIeNfJArADEilC+KoUYAIUu+zoACAAA
+  </data>
+ </layer>
+ <layer name="Layer 15" width="16" height="32">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoA7oBeI+KplFLZAMxClAnEqm/lIgLgPicgrc0EGCWnkgVgBiRSBWAmJlEvWrE4HpDWSAWBaI5cjUrwfE+kBsgCRGql8cybQbBoLJ0EPP8BcAYkEy9ZLjvsGY15HBQKZ3XCATjxyh8ByM/qEVkARiKSCWxqMGX1hoA7EOEOuiiTuQ4AY7HPYRG/7o+okBgUAchEW/IRAbAbExEJsAsSmaPlUKMQAGboJYAAgAAA==
+  </data>
+ </layer>
+</map>
